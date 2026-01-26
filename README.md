@@ -37,6 +37,8 @@ DUET-seq (Droplet-based Unified Epigenome and Transcriptome sequencing), an open
 * ggplot2 (v3.5.2)
 * patchwork (v1.3.1)
 * dplyr (v1.1.4)
+* igraph (v2.1.4)
+* Cicero (v1.3.9)
 ### Other Bioinformatics Utilities
 * chromap (0.2.7)
 * MACS2 (v2.2.9.1)
