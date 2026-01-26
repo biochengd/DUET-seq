@@ -41,3 +41,7 @@ DUET-seq (Droplet-based Unified Epigenome and Transcriptome sequencing), an open
 * seqtk (v1.3-r106)
 * sratoolkit (v3.0.0)
 * faSize, bedClip, calc, addCols from UCSC utilities
+
+
+## Citation
+Cheng D.et al. DUET-seq: An Open-Source, High-Performance Multi-omic Platform for Resolving Temporal Regulatory Logic during Spermatogenesis
