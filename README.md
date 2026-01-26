@@ -17,7 +17,6 @@ DUET-seq (Droplet-based Unified Epigenome and Transcriptome sequencing), an open
 * seaborn (v0.11.0.rc0)
 * scanpy (v1.9.0)
 * scikit-learn (v0.22.1)
-
 ### R packages
 * Matrix (v1.3-3)
 * Signac (v1.6.0)
@@ -32,7 +31,6 @@ DUET-seq (Droplet-based Unified Epigenome and Transcriptome sequencing), an open
 * stringr (v1.4.0.9000)
 * mgsub (v1.7.3)
 * stringi (v1.7.6)
-
 ### Other Bioinformatics Utilities
 * chromap (0.2.1-r369)
 * MACS2 (v2.2.7.1)
