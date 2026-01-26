@@ -11,13 +11,11 @@ DUET-seq (Droplet-based Unified Epigenome and Transcriptome sequencing), an open
 ### General programs
 * Python3
 * R v4
-* Python packages
-* numpy (v1.19.5)
-* scipy (v1.5.3)
-* pandas (v1.1.5)
-* seaborn (v0.11.0.rc0)
-* scanpy (v1.9.0)
-* scikit-learn (v0.22.1)
+### Python packages
+* numpy (v2.1.3)
+* scipy (v1.14.1)
+* pandas (v2.2.3)
+
 ### R packages
 * Matrix (v1.3-3)
 * Signac (v1.14.0)
