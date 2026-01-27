@@ -134,10 +134,3 @@ p_split <- DimPlot(seu, reduction = red_use, group.by = "celltype", split.by = "
 ggsave(file.path(OUTPUT_DIR, "UMAP_integration/UMAP_Integration_ByPlatform.pdf"), p_int, width = 8, height = 7)
 ggsave(file.path(OUTPUT_DIR, "UMAP_integration/UMAP_Annotation_ByCelltype.pdf"), p_anno, width = 8, height = 7)
 ggsave(file.path(OUTPUT_DIR, "UMAP_integration/UMAP_Split_Comparison.pdf"), p_split, width = 14, height = 7)
-
-cat("\n=== Analysis Complete ===\n")
-cat("Generated Files in '04_Final_Figures/':\n")
-cat("1. QC_comparison/RNA_QC_ViolinPlots.pdf\n")
-cat("2. QC_comparison/ATAC_QC_ViolinPlots.pdf\n")
-cat("3. QC_comparison/Combined_QC_Summary.pdf\n")
-cat("4. UMAP_integration/ (3 files)\n")
