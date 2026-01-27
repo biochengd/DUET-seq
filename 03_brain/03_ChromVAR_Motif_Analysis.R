@@ -13,7 +13,6 @@ INPUT_FILE  <- "03_Cleaned_Analysis/Results/brain_multiome_cleaned.rds"
 OUTPUT_BASE <- "06a_ChromVAR_Analysis"
 # Number of threads for parallel processing
 N_CORES     <- 2
-# Genome assembly (Ensure matching BSgenome package is installed)
 GENOME_PKG  <- "BSgenome.Mmusculus.UCSC.mm10"
 
 # --- Setup ---
