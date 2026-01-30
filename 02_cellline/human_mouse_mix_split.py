@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 
 # --- 1. Configuration ---
 CONFIG = {
-    'RNA_DIR': '/s1//chengd/data/mix_hg38_mm10/outs/filtered_feature_bc_matrix/',
+    'RNA_DIR': '/s1/chengd/data/mix_hg38_mm10/outs/filtered_feature_bc_matrix/',
     'OUT_DIR': '/s1/chengd/project/multiome/02_cellline/species_separation/',
     'QC': {
         'min_genes': 300, 
